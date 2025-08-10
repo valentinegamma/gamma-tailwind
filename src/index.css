@@ -1,1 +1,14 @@
 @import "tailwindcss";
+
+@theme {
+  --color-primary: #111827;
+  --color-secondary: #1E2939;
+}
+html {
+  /* font-size: 62.5%; */
+}
+
+body {
+  
+  /* background-color:#111827 ; */
+}
